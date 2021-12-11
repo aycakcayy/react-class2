@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+In this project, i try to get practice with react fundamentals, props, state hook etc.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
